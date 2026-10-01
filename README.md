@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="456" height="451" alt="Screenshot 2026-10-01 at 16 40 21" src="https://github.com/user-attachments/assets/99edd331-026d-4681-8070-091637ecca58" />
+  <img width="360" height="262" alt="Screenshot 2026-10-01 at 16 40 21" src="https://github.com/user-attachments/assets/0f75dfe4-7bfd-4ac8-bc3f-eafee7a67d84" />
 </p>
 
 # Hi! My name is Samira Öztürk ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
