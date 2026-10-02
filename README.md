@@ -17,7 +17,7 @@
 <div align="center">
 
 🌍  I'm based in __United Kingdom__
-<br> ✉️  You can contact me at __[samira05ozturk@gmail.com](mailto:samira05ozturk@gmail.com)__
+<br> ✉️  You can contact me at __[ozturk05samira@gmail.com](mailto:ozturk05samira@gmail.com)__
 <br> 👯 I’m looking to collaborate on: University hackathons and open-source data structures projects.
 <br> 💼 I’m looking for: A Software Engineering or IT Internship to apply my programming skills to real-world solutions. 
 
