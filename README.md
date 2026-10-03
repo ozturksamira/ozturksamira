@@ -3,9 +3,13 @@
   </p>
 
 # Hi! My name is Samira Öztürk ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
 ### Computer Science Student at University of Greenwich 
-> I am a Computer Science undergraduate at the University of Greenwich (BSc Hons, 2025–2028) with a strong foundation in software engineering, backend development, and system architecture. My academic and project work focuses on building clean, efficient, and scalable software solutions, ranging from algorithmic performance benchmarking in Python to engineering secure user authentication engines in Java using design patterns like Factory and Singleton. 
-<br> <br> Through my hands-on technical projects, I have developed an analytical approach grounded in Object-Oriented Programming, relational database design (3NF schema normalization in MySQL), and information security protocols. Alongside my technical coursework, my background in high-volume customer environments and volunteer logistics has sharpened my cross-functional team collaboration, workflow optimization, and rapid problem-solving skills under pressure. I am actively seeking Software Engineering or IT Internship opportunities to apply my technical skills to real-world production systems.
+> - I am a Computer Science undergraduate at the University of Greenwich (BSc Hons, 2025–2028) with a strong foundation in software engineering, backend development, and system architecture.
+> - My academic and project work focuses on building efficient and scalable software solutions, ranging from algorithmic performance benchmarking in Python to engineering secure user authentication engines in Java using design patterns like Factory and Singleton.
+> - Through my hands-on technical projects, I have developed an analytical approach grounded in Object-Oriented Programming, relational database design (3NF schema normalization in MySQL), and information security protocols.
+> - Alongside my technical coursework, my background in high-volume customer environments and volunteer logistics has sharpened my cross-functional team collaboration, workflow optimization, and rapid problem-solving skills under pressure.
+> - I specialise in backend architecture and full-stack development, having built the Manuscript Editor Web Application (Marginalia) to provide writers with a seamless, interactive tool for analyzing prose. It is still my current project, but anyone may explore the live application or review the source code through my GitHub profile.
 ---
 ### Current Modules & Academic Focus:
 - __Algorithms & Data Structures:__ Evaluating time and space complexity ($O(n \\log n)$, $O(n^2)$), benchmark analysis, and implementing core searching and sorting algorithms (QuickSort, MergeSort, Binary Search) to identify memory bottlenecks and optimize runtime execution.
