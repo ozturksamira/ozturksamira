@@ -1,6 +1,6 @@
 <p align="center">
-  <img width="360" height="262" alt="Screenshot 2026-10-01 at 16 40 21" src="https://github.com/user-attachments/assets/0f75dfe4-7bfd-4ac8-bc3f-eafee7a67d84" />
-</p>
+<img width="1366" height="768" alt="About Me" src="https://github.com/user-attachments/assets/c9bbd4d7-d48d-469d-a801-425f9f017549" />
+  </p>
 
 # Hi! My name is Samira Öztürk ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ### Computer Science Student at University of Greenwich 
@@ -18,8 +18,9 @@
 
 🌍  I'm based in __United Kingdom__
 <br> ✉️  You can contact me at __[ozturk05samira@gmail.com](mailto:ozturk05samira@gmail.com)__
-<br> 👯 I’m looking to collaborate on: University hackathons and open-source data structures projects.
-<br> 💼 I’m looking for: A Software Engineering or IT Internship to apply my programming skills to real-world solutions. 
+<br> I’m looking to collaborate on: University hackathons and open-source data structures projects.
+<br> I' currently working on: A web application which analyses and edits manuscripts.
+<br> I’m looking for: A Software Engineering or IT Internship to apply my programming skills to real-world solutions. 
 
 
   | Languages | Proficiency |
